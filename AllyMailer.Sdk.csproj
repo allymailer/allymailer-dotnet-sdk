@@ -9,7 +9,7 @@
     <NoWarn>$(NoWarn);CS1591</NoWarn>
 
     <PackageId>AllyMailer.Sdk</PackageId>
-    <Version>2.1.1</Version>
+    <Version>2.1.2</Version>
     <Authors>AllyMailer</Authors>
     <Description>AllyMailer Web API client library for .NET</Description>
     <PackageTags>allymailer;email;api;sdk</PackageTags>
