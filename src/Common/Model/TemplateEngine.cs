@@ -4,7 +4,7 @@ using AllyMailer.Client;
 namespace AllyMailer.Common.Model;
 
 /// <summary>
-/// Параметр для вибору [шаблонізатора](https://docs.allymailer.com.ua/en/template-engines) — або<br/>
+/// Параметр для вибору [шаблонізатора](https://docs.allymailer.com.ua/ua/template-engines) — або<br/>
 /// "simple", або "velocity", або "liquid", або "none". За замовчуванням — "simple".
 /// </summary>
 [JsonConverter(typeof(StringEnumConverter<TemplateEngine>))]

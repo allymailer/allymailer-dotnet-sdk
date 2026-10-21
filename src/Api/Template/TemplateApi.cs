@@ -11,7 +11,7 @@ namespace AllyMailer.Api.Template;
 /// Ви можете зберегти шаблон на боці AllyMailer і потім посилатися на нього за ідентифікатором. Це не<br/>
 /// обов'язково, але вкрай рекомендовано у разі повторюваних email-повідомлень або за великих обсягів<br/>
 /// надсилання. AllyMailer підтримує два різні синтаксиси для шаблонів, докладніше читайте<br/>
-/// [тут](https://docs.allymailer.com.ua/en/template-engines).
+/// [тут](https://docs.allymailer.com.ua/ua/template-engines).
 /// </summary>
 public class TemplateApi
 {
