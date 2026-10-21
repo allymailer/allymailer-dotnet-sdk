@@ -52,7 +52,7 @@ public class MessageObject
     public string? GlobalLanguage { get; set; }
 
     /// <summary>
-    /// Параметр для вибору [шаблонізатора](https://docs.allymailer.com.ua/en/template-engines) — або<br/>
+    /// Параметр для вибору [шаблонізатора](https://docs.allymailer.com.ua/ua/template-engines) — або<br/>
     /// "simple", або "velocity", або "liquid", або "none". За замовчуванням — "simple".
     /// </summary>
     [JsonPropertyName("template_engine")]
